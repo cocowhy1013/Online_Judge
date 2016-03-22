@@ -1,3 +1,5 @@
+package LeetCode;
+
 /**
  * Created by Coco on 2016/3/22.
  */
